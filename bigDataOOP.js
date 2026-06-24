@@ -25,7 +25,7 @@ class Voo {
 
 
 const frotaAtiva = [
-    new Voo("G3-111", "Gol", "Confirmado", 150),
+    new Voo("G3-111", "gol", "Confirmado", 150),
     new Voo("LA-222", "Latam", "Atrasado", 200),
     new Voo("AD-333", "Azul", "Atrasado", 120),
     new Voo("AF-444", "AirFrance", "No Solo", 300)
